@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment variables containing credentials
+.env
+
+# Large datasets and model binary checkpoints (avoid bloating repo)
+data/
+models/
